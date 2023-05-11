@@ -1,1 +1,2 @@
-Interactive and user-friendly Power BI dashboards analyzing US car sales and Pakistan retail supermarkets data published on Power BI cloud.
+## Power BI dashboards
+Developed interactive and user-friendly Power BI dashboards for analyzing US car sales and Pakistan retail supermarket data, utilizing Power BI cloud platform. 
